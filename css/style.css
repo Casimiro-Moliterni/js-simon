@@ -1,0 +1,9 @@
+.container{
+    max-width: 600px;
+    margin: 100px auto;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: lawngreen;
+    border: 1px solid coral;
+    text-align: center;
+}
